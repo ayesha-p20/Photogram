@@ -9,9 +9,9 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
 
 - [ ] User can sign up to create a new account using Parse authentication.
-- [ ] User can log in and log out of his or her account.
-- [ ] The current signed in user is persisted across app restarts.
-- [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can log in and log out of his or her account.
+- [x] The current signed in user is persisted across app restarts.
+- [x] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 For some reason, I am unable to log into my account although I entered the correct username and password. I also sought help on Slack twice but received no response. If my app gets fixed at a later date, I will try to complete more stories and commit changes to GitHub.
+I couldn;t complete all required stories.
 
 ## Open-source libraries used
 
@@ -42,7 +43,7 @@ For some reason, I am unable to log into my account although I entered the corre
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Ayesha Parvez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
