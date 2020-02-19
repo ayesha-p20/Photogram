@@ -3,12 +3,14 @@ package com.example.photogram;
 import android.app.Application;
 
 import com.parse.Parse;
+import com.parse.ParseObject;
 
 public class ParseApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
 
+        ParseObject.registerSubclass(Post.class);
 
          //initializing the SDK
         Parse.initialize(new Parse.Configuration.Builder(this)
