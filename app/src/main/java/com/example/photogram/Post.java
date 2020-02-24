@@ -36,4 +36,6 @@ public class Post extends ParseObject {
         put(Key_User,parseUser);
     }
 
+   // public String getTime(){return getString(KEY_Created);}
+
 }
