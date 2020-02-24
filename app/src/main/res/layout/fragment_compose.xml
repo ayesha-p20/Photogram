@@ -21,7 +21,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Take Picture" />
+        android:backgroundTint="#00bcee"
+        android:textColor="#ffffff"
+        android:text="Take Picture"
+        android:textAllCaps="false" />
 
     <ImageView
         android:id="@+id/ivPic"
@@ -35,6 +38,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:background="#00bcee"
+        android:textColor="#ffffff"
         android:text="Submit" />
 
 

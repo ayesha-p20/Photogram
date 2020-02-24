@@ -18,6 +18,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
+        android:background="#FFDC80"
+        android:backgroundTint="#FFDC80"
+        app:itemIconTint="#C13584"
+        app:itemTextColor="#833AB4"
         app:menu="@menu/menu_bottom_navigation" />
 
 
