@@ -15,11 +15,6 @@
 
 ## Video Walkthrough
 
-<img src='https://github.com/ayesha-p20/Photogram/blob/master/walkthrough_wk5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-## Video Walkthrough
-
 <img src='https://github.com/ayesha-p20/Photogram/blob/master/walkthrough_wk6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
